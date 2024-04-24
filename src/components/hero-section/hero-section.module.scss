@@ -26,7 +26,8 @@
 
 .actions {
   display: flex;
-  gap: 8px;
+  justify-content: start;
+  column-gap: 16px;
 }
 
 .heading {
